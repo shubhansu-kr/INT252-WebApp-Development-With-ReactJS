@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #131517;
+    color: white;
+}
+
+@font-face {
+    font-family: 'herofont';
+    src: url('./assets/CabinetGrotesk.otf');
+}
+.herofont{
+    font-family: 'herofont';
+}
+::-webkit-scrollbar {
+    width: 10px;
+    cursor: pointer;
+}
+
+::-webkit-scrollbar:hover {
+    cursor: pointer;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #2a2a2a;
+    cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #141414;
+    cursor: pointer;
+}
+
+.no-scrollbar{
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
