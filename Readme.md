@@ -17,3 +17,15 @@ This repo tracks the progress of the course INT252 and contains resouce for the 
 4. [`React`](./React/) folder contains the solution to the end term practical problem statement given for the evaluation. 
 5. [`Certificates`](./Certificates/) folder contains certificates to all three courses given for credit completion. 
 
+## Certificates
+
+Click here to view the certificates
+
+1. [React Basics](./Certificates/Coursera%20R3Y34MU5MEN8%20-%20React%20Basics.pdf)  
+![React Basics](./Certificates/image.png)
+
+2. [Advanced React](./Certificates/Coursera%20LWT4P76SYH3Y%20-%20Advanced%20React.pdf)  
+![Advanced React](./Certificates/image-1.png)
+
+3. [Developing Front-End apps with React](./Certificates/Coursera%20LF3MDH8DYH87%20-%20Developing%20frontend%20app%20with%20react%20-%20IBM.pdf)  
+![Developing Front-End apps with React](./Certificates/image-2.png)
